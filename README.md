@@ -13,9 +13,7 @@ A gaming/esports-themed web application that compares two Spotify playlists and 
 - 📊 **4-Component Score** — Mutual content, genre similarity, popularity profile, release era
 - 🎨 **Gaming/Esports Theme** — Spotify dark mode colors, dynamic patterns, 3D card animations
 - 📈 **Radar Chart** — Interactive chart visualizing genre profiles
-- 🎉 **Confetti** — Celebration animation for high compatibility scores
 - 📱 **Responsive** — Works flawlessly on desktop and mobile
-- 🤝 **Multiplayer Room (Live Sync)** — Real-time comparison with your friend on the same network/server
 - 🧠 **Rich Metadata (MusicBrainz)** — Clicking on a track merges data from MusicBrainz, iTunes, and LRCLIB
 
 ## 🏗 Architecture
