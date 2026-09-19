@@ -1,0 +1,11 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "playlist-versus-proxy"
+main = "src/index.js"
+compatibility_date = "2024-12-01"
+
+# Environment variables are set via Cloudflare Dashboard (Settings > Variables)
+# Do NOT put secrets here. Use `npx wrangler secret put SPOTIFY_CLIENT_SECRET`
+#
+# Required env vars:
+#   SPOTIFY_CLIENT_ID     — Your Spotify app client ID
+#   SPOTIFY_CLIENT_SECRET — Your Spotify app client secret (set as secret!)

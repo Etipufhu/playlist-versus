@@ -1,0 +1,17 @@
+{
+  "name": "plversus",
+  "version": "1.0.0",
+  "description": "A gaming/esports-themed web application that compares two Spotify playlists and calculates a mutual taste score.",
+  "main": "extract-embed.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
